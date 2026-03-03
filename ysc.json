@@ -1,211 +1,88 @@
 {
-    "spider": "./tvbox.jar",
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747813141071/20250521_153801.gif",
-    "wallpaper": "https://t.alcy.cc/acg",
-    "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
-    "lives": [
+    "urls": [
         {
-            "name": "✨范明明✨",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
-        }
-    ],
-    "sites": [
-        {
-            "key": "豆瓣",
-            "name": "😎免费┃接口",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "./lib/douban.json"
+            "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace",
+            "name": "💫林中小屋💫🚦"
         },
         {
-            "key": "配置",
-            "name": "📥配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.297
-            }
+            "url": "http://肥猫.com",
+            "name": "🐼肥猫🐼🚦"
         },
         {
-            "key": "哔哩集合",
-            "name": "🅱️哔哩┃集合",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "./lib/bili.json"
-            }
+            "url": "https://yydsys.top/duo",
+            "name": "多多🚦"
         },
         {
-            "key": "采集",
-            "name": "🌀采集┃线路",
-            "type": 3,
-            "api": "csp_Ptt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "url": "http://ok321.top/tv",
+            "name": "🤓OK🤓🚦"
+        },
+         {
+            "url": "https://10352.kstore.vip/tv",
+            "name": "OK备用🚦"
         },
         {
-            "key": "Tgsoukk",
-            "name": "✈️TG┃夸克",
-            "type": 3,
-            "api": "csp_Tgsoukk",
-            "searchable": 1,
-            "changeable": 0
+            "url": "https://9280.kstore.vip/newwex.json",
+            "name": "🐂王二小🐮🚦"
         },
         {
-            "key": "Tgsouuc",
-            "name": "✈️TG┃UC",
-            "type": 3,
-            "api": "csp_Tgsouuc",
-            "searchable": 1,
-            "changeable": 0
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "💫潇洒💫🚦"
         },
         {
-            "key": "Tgsoubd",
-            "name": "✈️TG┃百度",
-            "type": 3,
-            "api": "csp_Tgsoubd",
-            "searchable": 1,
-            "changeable": 0
+            "url": "http://rihou.cc:55/天天开心",
+            "name": "😁天天😁🚦"
         },
         {
-            "key": "Tgsou",
-            "name": "✈️TG┃聚合",
-            "type": 3,
-            "api": "csp_Tgsou",
-            "searchable": 1,
-            "changeable": 0
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🐟摸鱼🐟🚦"
         },
         {
-            "key": "玩偶哥哥",
-            "name": "🔴玩偶┃4K",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🐂放牛娃😎🚦"
         },
         {
-            "key": "奥秘",
-            "name": "🔴奥秘┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30,
-            "ext": {
-                "site": "https://vip.omii.top"
-            }
+            "url": "https://www.饭太硬.com/tv",
+            "name": "👽饭太硬👿🚦"
         },
         {
-            "key": "虎斑",
-            "name": "🔴虎斑┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30,
-            "ext": {
-                "site": "http://103.45.162.207:20720"
-            }
+            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+            "name": "👽饭太硬👽🚦"
         },
         {
-            "key": "多多影音",
-            "name": "🔴多多┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30,
-            "ext": {
-                "site": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz"
-            }
+            "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json",
+            "name": "👿小米👿🚦"
         },
         {
-            "key": "二小网盘",
-            "name": "🔴二小┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "http://2xiaopan.fun,https://xhww.net,https://erxiaofn.click,https://erxiaofn.site,https://www.xhww.net,https://xiaoer.5568.eu.org,http://wexfnw.999888456.xyz,http://89.213.49.249"
-            }
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🔮巧记🔮🚦"
         },
         {
-            "key": "闪电网盘",
-            "name": "🔴闪电┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "http://1.95.79.193,http://1.95.79.193:666"
-            }
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "🐯小虎斑🐯🚦"
         },
         {
-            "key": "至臻网盘",
-            "name": "🔴至臻┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "http://mihdr.top"
-            }
+            "url": "https://欧歌.v.nxog.top/m/",
+            "name": "🌈欧歌🌈🚦"
         },
         {
-            "key": "木偶哥哥",
-            "name": "🔴木偶┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "http://muou.6qu.top,http://123.666291.xyz,https://mogg.5568.eu.org,https://mo.91muou.icu,https://mo.666291.xyz"
-            }
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🍎南风🍎🚦"
         },
         {
-            "key": "蜡笔网盘",
-            "name": "🔴蜡笔┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "http://www.labi88.sbs,http://feimaoai.site,https://feimao666.fun,http://feimao888.fun"
-            }
+            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🍅香雅情🍅🚦"
         },
-        
         {
-            "key": "push_agent",
-            "name": "⛽手机┃推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0
+            "url": "https://www.252035.xyz/p/jsm.json",
+            "name": "⚪PG⚪🚦"
+        },
+        {
+            "url": "https://www.252035.xyz/z/FongMi.json",
+            "name": "🌱真心🌱🚦"
+        },
+        {
+            "url": "https://gitee.com/zybal/tv/raw/master/教育接口.json",
+            "name": "📚教育📚🚦"
         }
     ]
 }
