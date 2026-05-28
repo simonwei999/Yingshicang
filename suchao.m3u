@@ -1,1 +1,89 @@
-
+#EXTM3U8
+#EXTINF:-1,江苏卫视 Max16M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
+#EXTINF:-1,江苏城市
+http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1,江苏体育休闲 
+http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1,江苏综艺
+http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/1.png" group-title="江苏移动",咪咕直播1
+http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/2.png" group-title="江苏移动",咪咕直播2
+http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/3.png" group-title="江苏移动",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/3.png" group-title="江苏移动",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/3.png" group-title="江苏移动",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/3.png" group-title="江苏移动",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/3.png" group-title="江苏移动",咪咕直播3
+http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="江苏移动",咪咕直播4
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="江苏移动",咪咕直播4
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/4.png" group-title="江苏移动",咪咕直播4
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/5.png" group-title="江苏移动",咪咕直播5
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/6.png" group-title="江苏移动",咪咕直播6
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/7.png" group-title="江苏移动",咪咕直播7
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/8.png" group-title="江苏移动",咪咕直播8
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
+#EXTINF:-1 tvg-name="9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/9.png" group-title="江苏移动",咪咕直播9
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
+#EXTINF:-1,咪咕视频 8M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
+#EXTINF:-1,咪咕视频 1080
+http://ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8
+#EXTINF:-1,咪咕视频 1080
+http://ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8
+#EXTINF:-1,咪咕视频 1080
+http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
